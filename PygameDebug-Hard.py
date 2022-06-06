@@ -35,7 +35,7 @@ for i in range(300):
     for sides in range(4):
         square.forward(size)
         square.right(angle)
-    square.rihgt(21)
+    square.rihg = (21)
     square.end_fill()
     
- turtle.done()
+turtle.done()
