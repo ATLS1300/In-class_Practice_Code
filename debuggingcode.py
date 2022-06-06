@@ -6,8 +6,6 @@ Created on Fri Jun  5 16:39:44 2020
 
 code for debugging practice!
 
-feel free to use any/all, just tried to be thorough
-
 """
 
 
